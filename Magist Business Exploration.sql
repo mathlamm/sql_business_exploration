@@ -3,9 +3,9 @@
 # Exploration of a the Magist dataset to answer business questions with MYSQL
 #
 # Created 26.2.24
-# Mathis Lammert
-#
-#
+# by Mathis Lammert
+
+
 
 # Load db
 use magist;
