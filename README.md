@@ -1,4 +1,4 @@
-# Analyis of potential online marketplace partership
+# Analysis of potential online marketplace partership
 
 This project was the first one-week group effort of the WBS Data Science Boot Camp in March 2024. 
 
